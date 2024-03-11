@@ -1,0 +1,111 @@
+{
+    "settings": {
+        "times": {
+            "enable": "true",
+            "huntbottom": 16000,
+            "hunttop": 32000,
+            "battlebottom": 16000,
+            "battletop": 32000,
+            "intervals": {
+                "huntbattle": {
+                    "enable": "true",
+                    "time": 17000
+                },
+                "animals": {
+                    "enable": "true",
+                    "time": 1200000
+                },
+                "pray": {
+                    "enable": "true",
+                    "time": 303000
+                },
+                "curse": {
+                    "enable": "true",
+                    "time": 303500
+                },
+                "upgrade": {
+                    "enable": "true",
+                    "time": 1205000
+                },
+                "gamble": {
+                    "enable": "false",
+                    "coinflip": {
+                        "time": 25000
+                    },
+                    "slots": {
+                        "time": 23000
+                    }
+                }
+            }
+        },
+        "huntandbattle": "true",
+        "banbypass": "true",
+        "discordrpc": "false",
+        "typingindicator": "true",
+        "pray": "true",
+        "curse": "true",
+        "autoquest": "true",
+        "extratoken": "false",
+        "inventory": {
+            "inventorycheck": "true",
+            "gemcheck": "true",
+            "lootboxcheck": "true",
+            "fabledlootboxcheck": "true",
+            "cratecheck": "true",
+            "eventcheck": "true"
+        },
+        "animals": {
+            "enable": "false",
+            "type": "sacrifice",
+            "animaltype": {
+                "common": "true",
+                "uncommon": "true",
+                "rare": "true",
+                "epic": "true",
+                "mythical": "false",
+                "patreon": "false",
+                "cpatreon": "false",
+                "legendary": "false",
+                "gem": "false",
+                "bot": "false",
+                "distorted": "false",
+                "fabled": "false",
+                "special": "false",
+                "hidden": "false"
+            }
+        },
+        "upgradeautohunt": {
+            "enable": "false",
+            "type": "duration"
+        },
+        "gamble": {
+            "coinflip": {
+                "default_amount": 0,
+                "max_amount": 0,
+                "multipler": 3,
+                "enable": "false",
+                "amount": "1"
+            },
+            "slots": {
+                "enable": "false",
+                "amount": "1"
+            }
+        }
+    },
+    "main": {
+        "token": "NzcxMDExMzIwMTUzNTA1ODM0.Gc-Rtv.m3af7VW-1FD45dvCIdWfF-fQa4ERWh0x7uQPIA",
+        "userid": "1209583900461105203",
+        "channelid": "1210868647887773718",
+        "owodmchannelid": "1211403357340831796",
+        "gamblechannelid": "1210868647887773718",
+        "autoquestchannelid": "1210868647887773718"
+    },
+    "extra": {
+        "token": "NzcxMDExMzIwMTUzNTA1ODM0.Gd9XyQ.eRg7LMuI9xjvPKq700QTlbun439sh4rrbUzgxI",
+        "userid": "771011320153505834",
+        "channelid": "1201517255507329055",
+        "owodmchannelid": "1069232943064694795",
+        "gamblechannelid": "1201519414277841037",
+        "autoquestchannelid": "1201518811921272862"
+    }
+}
